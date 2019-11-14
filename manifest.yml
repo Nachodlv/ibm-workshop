@@ -1,0 +1,5 @@
+ applications:
+ - name: loving-bassi
+   memory: 256M
+   host: loving-bassi
+   buildpack: staticfile_buildpack
